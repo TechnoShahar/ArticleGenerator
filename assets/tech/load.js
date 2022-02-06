@@ -9,7 +9,7 @@ document.getElementById("relvHelpBox").innerHTML = "קישור רלוונטי ל
 
 document.getElementById("updatesforums2").innerHTML = `
                                             <a href="https://www.fxp.co.il/forumdisplay.php?f=4607" class="dept">עדכוני
-                                        מולטימדיה,</a> <a href="https://www.fxp.co.il/forumdisplay.php?f=4603"
+                                        טכנולוגיה,</a> <a href="https://www.fxp.co.il/forumdisplay.php?f=4603"
                                                           class="dept">עדכוני
                                         אנדרואיד,</a> <a href="https://www.fxp.co.il/forumdisplay.php?f=4602"
                                                          class="dept">עדכוני
